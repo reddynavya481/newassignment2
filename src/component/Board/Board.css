@@ -1,0 +1,16 @@
+table,th,td{
+    border: none;
+}
+table{
+    border-collapse: collapse;
+    align-content: left;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+}
+
+th,td{
+    padding: 15px;
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+.show{
+    align-self: auto;
+    text-align: center;
+    align-items: center;
+  }
+  .hide{
+    display: none;
+  }
+  .dis{
+    display: none;
+  }
